@@ -1,0 +1,8 @@
+args:
+  source: ./input/plane.jpg
+  target: ./input/sky.jpg
+  output: ./output/blend
+  blend_type: poisson
+  threshold: 1000
+
+
