@@ -8,18 +8,18 @@ python main.py blend --config config_file_path
 ## **Input**
 Source image
 
-<img src="./input/plane.jpg">
+<img src="./artifacts/plane.jpg">
 
 Target image
-<img src="./input/sky.jpg">
+<img src="./artifacts/sky.jpg">
 
 
 ## **Output**
 
 Masked image via Detectron2
 
-<img src="./input/mask.png">
+<img src="./artifacts/mask.png">
 
 Output blended image
 
-<img src="./output/blend_0.png">
+<img src="./artifacts/blend_0.png">

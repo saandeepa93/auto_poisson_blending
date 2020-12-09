@@ -1,8 +1,9 @@
 args:
-  source: ./input/plane.jpg
-  target: ./input/sky.jpg
-  output: ./output/blend
+  source: ./input/plane_2/
+  target: ./input/sunset/
+  output: ./output/
   blend_type: poisson
-  threshold: 1000
+  threshold: 700
+  img_size: 256
 
 

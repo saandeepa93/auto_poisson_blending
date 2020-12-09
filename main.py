@@ -1,6 +1,7 @@
 
 import click
 from sys import exit as e
+import numpy as np
 
 from modules.copy_paste import combine_img
 from modules.util import get_config
